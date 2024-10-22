@@ -47,4 +47,4 @@ As part of this **4-week, fully remote externship**, I focused on performing **e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Beats-By-Dre-Consumer-Insights.git
+   git clone https://github.com/Noah-Gallego/Beats-By-Dre-Consumer-Insights.git
