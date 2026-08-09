@@ -28,6 +28,17 @@ The notebooks analyze consumer-review data and develop findings for consumer ins
 - NLTK
 - TextBlob
 
+### Important libraries
+
+- NumPy and pandas
+- Matplotlib and Seaborn
+- NLTK
+- TextBlob
+
+## Notebook reference
+
+The repository's analysis format is compatible with [Google Colab notebooks](https://colab.research.google.com/notebooks/data_table.ipynb); use the individual notebooks' documented inputs when reproducing the work.
+
 ## Usage
 
 Open the notebooks from the relevant week in Jupyter and follow each notebook's documented input and setup requirements.
