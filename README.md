@@ -2,6 +2,10 @@
 
 Notebook-based consumer-review analysis covering data collection, exploratory analysis, visualization, and sentiment analysis.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas&theme=light" alt="Python, Jupyter, NumPy, and pandas" />
+</p>
+
 ## Overview
 
 The work is organized as a four-week externship sequence:
