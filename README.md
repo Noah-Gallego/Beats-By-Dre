@@ -21,24 +21,6 @@ The notebooks analyze consumer-review data and develop findings for consumer ins
 
 ![Average product rating chart](https://noah-readme-assets-v4.vercel.app/Beats-By-Dre/notebook-cell21-output0.png)
 
-## Tech stack
-
-- Python
-- Jupyter Notebook
-- NumPy
-- pandas
-- Matplotlib
-- Seaborn
-- NLTK
-- TextBlob
-
-### Important libraries
-
-- NumPy and pandas
-- Matplotlib and Seaborn
-- NLTK
-- TextBlob
-
 ## Notebook reference
 
 The repository's analysis format is compatible with [Google Colab notebooks](https://colab.research.google.com/notebooks/data_table.ipynb); use the individual notebooks' documented inputs when reproducing the work.
