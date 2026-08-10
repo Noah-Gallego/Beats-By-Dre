@@ -17,6 +17,10 @@ The work is organized as a four-week externship sequence:
 
 The notebooks analyze consumer-review data and develop findings for consumer insights. The repository does not include a dataset manifest at its root; individual notebooks document their own inputs.
 
+## Preview
+
+![Average product rating chart](https://noah-readme-assets-v4.vercel.app/Beats-By-Dre/notebook-cell21-output0.png)
+
 ## Tech stack
 
 - Python
