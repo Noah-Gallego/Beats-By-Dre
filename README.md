@@ -32,3 +32,16 @@ Open the notebooks from the relevant week in Jupyter and follow each notebook's 
 ## Status and attribution
 
 This repository contains completed externship coursework and analysis materials. Respect the source and usage terms of any review data used by the notebooks.
+
+> [!NOTE]
+> Inputs and dependencies are documented within individual notebooks, so reproduce one week at a time rather than assuming a single root-level environment.
+
+## Analysis sequence
+
+```mermaid
+flowchart LR
+    A[Review data and notebook inputs] --> B[Week 1 collection and pandas work]
+    B --> C[Week 2 descriptive statistics and charts]
+    C --> D[Week 3 sentiment exercises]
+    D --> E[Week 4 capstone notebook]
+```
